@@ -1,6 +1,6 @@
 # Human-Activity-Recognition
 
-In this case study I am using a deep cnn to classify GAF images created from sensor data.
+In this case study I am using a deep cnn to classify GAF images created from 3D smartphone sensor data.
 
 Provided below are the links of the datasets
 
